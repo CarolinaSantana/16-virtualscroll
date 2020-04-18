@@ -1,6 +1,18 @@
 # Virtualscroll
 
+Practical exercise of Udemy course: [Angular: De cero a experto creando aplicaciones (Angular 9+)](https://www.udemy.com/share/101WdsB0sfd1tTRXo=/).
+
+This application uses [The Component Dev Kit (CDK) of Angular Material](https://material.angular.io/cdk/categories). Specifically [Scrolling](https://material.angular.io/cdk/scrolling/overview) and [Drag and Drop](https://material.angular.io/cdk/drag-drop/overview) are used.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+
+## Install The Component Dev Kit (CDK) of Angular Material
+
+Run `npm install @angular/cdk --save` to install CDK of Angular Material.
+
+## Install dependencies
+
+Run `npm install` to install dependencies.
 
 ## Development server
 

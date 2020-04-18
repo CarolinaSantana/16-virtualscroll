@@ -1,0 +1,8 @@
+<h1>Drag <small>countries</small></h1>
+<br>
+
+<ul class="list-group-item" cdkDropList (cdkDropListDropped)="drop($event)">
+    <li class="list-group-item" *ngFor="let country of countries" cdkDrag>
+        {{ country.name }}
+    </li>
+</ul>
